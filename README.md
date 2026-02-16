@@ -3,11 +3,6 @@ Fala pessoal, sou o Augusto Iseppe! Atualmente desenvolvendo apps com Flutter/Da
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoIseppe&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoIseppe&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
